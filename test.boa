@@ -1,0 +1,5 @@
+(+ 2 2)
+(+ 7 3)
+(display "foo")
+(define (square x) (* x x))
+(set v 7)

@@ -1,0 +1,5 @@
+edn-format==0.3.6
+ply==3.4
+pyRFC3339==0.1
+pytz==2012h
+wsgiref==0.1.2
